@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Ali Ali Mostafa
+I'm Ali Ali Mostafa
 
 Currently studying Computer Systems Engineering student @ QMUL.  
 Aspiring Software Engineer.
