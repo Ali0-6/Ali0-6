@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+# I'm Ali Ali Mostafa
+
+Currently studying Computer Systems Engineering student @ QMUL.  
+Aspiring Software Engineer.
+
+Mastering:
+- DSA
+- Java
+- Systems fundamentals
+
+Building. Learning. Improving.
+
+
 <!--
 **Ali0-6/Ali0-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
